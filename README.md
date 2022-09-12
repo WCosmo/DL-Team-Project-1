@@ -1,6 +1,8 @@
 # DL - Team Project 1
 Project for the Deep Learning discipline of the Postgraduate Program in Electrical Engineering at the Federal University of Pará
+
 The project is an ANN approach for the Santander Customer Satisfaction challenge
+
 - Authors: Caio Cardoso, Isa Andrade, Wilson Cosmo
 - Information about the challenge: https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
 

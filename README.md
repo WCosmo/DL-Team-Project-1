@@ -1,4 +1,4 @@
-# DL - Team Project 1
+# Deep Learning - Team Project 1
 Project for the Deep Learning discipline of the Postgraduate Program in Electrical Engineering at the Federal University of Pará.
 
 The project is an ANN approach for the Santander Customer Satisfaction challenge. The model is trained with the dataset in three states: unbalanced (original), oversampled and undersampled.

@@ -3,7 +3,8 @@ Project for the Deep Learning discipline of the Postgraduate Program in Electric
 
 The project is an ANN approach for the Santander Customer Satisfaction challenge.
 
-- Authors: Caio Cardoso, Isa Andrade, Wilson Cosmo
+- Authors: Caio Cardoso, Wilson Cosmo
+- Reviewer: Tatiane Balbinot
 - Information about the challenge: https://www.kaggle.com/competitions/santander-customer-satisfaction/overview
 
 
